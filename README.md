@@ -1,4 +1,4 @@
-**decimal binary converter**
+## Decimal binary converter
 
 
 
