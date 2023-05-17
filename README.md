@@ -14,14 +14,14 @@ This website was built using the following technologies:
 
 • JavaScript
 
-**Installation**
+## Installation
 
 
 To install and run the website locally, follow these steps:
 
-Clone the repository
+• Clone the repository
 
-Open the website in a browser: http://localhost:3000
+• Open the website in a browser: http://localhost:3000
 
 **Contributing**
 
