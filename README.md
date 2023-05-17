@@ -3,16 +3,16 @@
 
 
 
-**Technologies used**
+## Technologies used
 
 
 This website was built using the following technologies:
 
-HTML
+• HTML
 
-CSS
+• CSS
 
-JavaScript
+• JavaScript
 
 **Installation**
 
