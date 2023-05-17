@@ -1,6 +1,7 @@
 ## Decimal binary converter
 
 
+This is a simple program that converts decimal numbers to binary representation.
 
 
 ## Technologies used
@@ -38,4 +39,5 @@ Contributions to the website are welcome. To contribute, follow these steps:
 
 ## License
 
-This website is licensed under the MIT License. See the LICENSE file for more information.
+
+This website is licensed under the MIT License. See the LICENSE file for more information. 
